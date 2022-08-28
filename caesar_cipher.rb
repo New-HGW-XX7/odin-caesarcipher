@@ -44,10 +44,10 @@ def encode_with_sub(string, shift)
 
 end
     
-puts 'Input string'
-string = gets.chomp
+# puts 'Input string'
+# string = gets.chomp
 
-puts 'Input shiftnumber'
-shift = gets.chomp.to_i
+# puts 'Input shiftnumber'
+# shift = gets.chomp.to_i
 
-encode_with_sub(string, shift)
+# encode_with_sub(string, shift)
